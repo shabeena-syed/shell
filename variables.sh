@@ -2,8 +2,8 @@
 
 # variables
 
-PERSON1:sonu
-PERSON2:10
+PERSON1=sonu
+PERSON2=10
 echo "$PERSON1 :: hello,how r u "
 echo "$PERSON2 :: im good"
 echo "$PERSON1 :: how is ur practice"
